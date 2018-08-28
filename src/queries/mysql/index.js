@@ -1,0 +1,1 @@
+exports.testQueries = require('./test');
